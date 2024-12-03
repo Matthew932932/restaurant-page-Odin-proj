@@ -1,2 +1,2 @@
-# restuarant-page-Odin-proj
+# restaurant-page-Odin-proj
 Restaurant Page. Odin Project. Javascript.
